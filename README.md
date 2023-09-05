@@ -1,7 +1,8 @@
 # Potato-Disease-Prediction
 # Potato Disease Prediction Web Application
 
-![Project Logo](logo.png)
+
+[![Video Demo](logo.png)](https://www.example.com/video-url)
 
 ## Table of Contents
 - [Introduction](#introduction)
