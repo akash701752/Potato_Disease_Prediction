@@ -51,13 +51,13 @@ To run this project locally, follow these steps :
 
 1. Clone this repository to your local machine:      
    ``` git clone https://github.com/yourusername/potato-disease-prediction.git```
-2. Navigate to the project directory :    
-   ```cd potato-disease-prediction```
-3. Install the required Python libraries for the backend :       
-   ```pip install uvicorn fastapi tensorflow```
-4. Install the required Node.js packages for the frontend :    
-   ```cd frontend```           
-    ```npm install```
+2. Navigate to the project directory :          
+   ```cd potato-disease-prediction```     
+3. Install the required Python libraries for the backend :           
+   ```pip install uvicorn fastapi tensorflow```      
+4. Install the required Node.js packages for the frontend :         
+   ```cd frontend```              
+    ```npm install```    
 
 
 ## Usage 
@@ -65,10 +65,10 @@ To run this project locally, follow these steps :
   ``` uvicorn main:app --reload```     
 
 2. Start the ReactJS development server for the frontend :
-   `cd frontend`      
-    `npm start` 
+   ```cd frontend```   
+    ```npm start```
    
-3. Access the web application in your web browser at  `http://localhost:3000`
+3. Access the web application in your web browser at  ```http://localhost:3000```
 
 
 ## Model Architecture
