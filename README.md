@@ -2,7 +2,7 @@
 # Potato Disease Prediction Web Application
 
 
-[![Video Demo](logo.png)([https://www.example.com/video-url](https://drive.google.com/file/d/1tln923L1Y-LwUy7_KAykUPHOX53qVZOP/view?usp=sharing))
+[![Video Demo](logo.png)([https://www.example.com/video-url])](https://drive.google.com/file/d/1tln923L1Y-LwUy7_KAykUPHOX53qVZOP/view?usp=sharing))
 
 ## Table of Contents
 - [Introduction](#introduction)
